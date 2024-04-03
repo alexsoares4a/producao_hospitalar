@@ -8,17 +8,14 @@
 >>> git init
 
 4. Conectar com um Repositório Remoto
->>> git remote add origin 
-
-5. 
 >>> git remote add origin https://github.com/alexsoares4a/producao_hospitalar.git
 
-6. Alterar o usuário e email
+5. Configuração do usuário e email para uso do git
 >> git config name "alexsoares4a"
 >> git config email "alexssonline@gmail.com"
 
-7. Fazer o push
+6. Obter os arquivos atualizados de um repositório remoto
 >>> git push origin https://github.com/alexsoares4a/producao_hospitalar.git
 
-8. Atualizar as dependências
+7. Atualizar as dependências
 >>> pip install -r requirements.txt --upgrade
