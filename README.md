@@ -8,6 +8,5 @@
 >>> git init
 
 4. Conectar com um Repositório Remoto
->>> git remote add origin URL_DO_SEU_REPOSITORIO_REMOTO
+>>> git remote add origin 
 
-Substitua URL_DO_SEU_REPOSITORIO_REMOTO pela URL fornecida pelo serviço que você está usando.
